@@ -1,0 +1,56 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">10119189Latihan2</string>
+
+    <string name="userna">Username</string>
+    <string name="pass">Password</string>
+    <string name="btn1">Login</string>
+    <string name="or">OR</string>
+    <string name="btn2">CONNECT WITH FACEBOOK</string>
+    <string name="regis">doesn,t have account ?</string>
+
+    <string name="regisdaf">Register</string>
+    <string name="email">Email</string>
+    <string name="phonum">Phone Number</string>
+    <string name="jk1">Male</string>
+    <string name="jk2">Female</string>
+    <string name="bloodtyp">Blood Type</string>
+    <string name="reshus">Reshus</string>
+    <string name="retpas">Retype Password</string>
+    <string name="perso">Personal</string>
+    <string name="Organi">Organization</string>
+    <string name="job">Job</string>
+    <string name="homeadd">Home Address</string>
+    <string name="defaultloca">Default Location</string>
+    <string name="angreetermcon">Agree with Terms and Conditions</string>
+    <string name="btn3">REGISTER</string>
+
+    <string name="head">Almose There</string>
+    <string name="dec1">Thank you for registering with us. one more</string>
+    <string name="dec2">step, you need to check your email</string>
+    <string name="dec3">to active your account</string>
+    <string name="btn4">VERIFY</string>
+
+    <string name="head2">Verify Your account</string>
+    <string name="dec4">We have send verification code to your email</string>
+    <string name="enterverif">enter verifivation code here....</string>
+    <string name="doesn">doesn\'t get the code?</string>
+    <string name="btn5">SEND</string>
+
+    <string name="Namprof">Reza Kurnia</string>
+    <string name="bldtyprof">Blood Type : O</string>
+    <string name="numprof1">75</string>
+    <string name="numprof2">100</string>
+    <string name="numprof">330</string>
+    <string name="bldgvs">Blood Give</string>
+    <string name="bldrece">Blood Received</string>
+    <string name="tnks">Thanks</string>
+    <string name="btn6">Search Donor</string>
+    <string name="btn7">Blood Needed</string>
+    <string name="btn8">Message</string>
+    <string name="btn9">Donor History</string>
+    <string name="decbtn6">Search donor near you</string>
+    <string name="decbtn7">4 Users need blood</string>
+    <string name="decbtn8">5 New Messages</string>
+    <string name="decbtn9">5 Gives, 2 Received</string>
+
+</resources>
